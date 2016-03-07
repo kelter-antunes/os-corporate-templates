@@ -63,7 +63,7 @@
 
         </div>
       </div>
-      <div class="container %WEB%top50%/WEB% %MOBILE%bot20%/MOBILE% align-center" style=" display: inline-block; color: #333; font-family: 'Myriad-Pro'; font-size: 22px; font-weight: 600;">
+      <div class="container %WEB% top50 %/WEB% %MOBILE% bot20 %/MOBILE% align-center" style=" display: inline-block; color: #333; font-family: 'Myriad-Pro'; font-size: 22px; font-weight: 600;">
         %WEB%Ready to take advantage of our program?%/WEB% <a class="osbtn osbtn-red" data-name="Become Partner" data-option="" href="/partners/become-a-partner/" id="wt4_wtheader_wt19_wt30_wtListSections_ctl08_wt15" style=" margin-left: 70px;"><span class="try-now">Become a partner</span></a>
       </div>
     </div>
